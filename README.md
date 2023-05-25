@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🌈 and when I'm not coding, I love to play with my kids 👦👦👣, garden 🌷🌴,  jogging 🏃, football ⚽, photograph 📷 and traveling ✈️⛵⛺🌊☕ ...
 -->
 
-- 🔭 I’m currently working on AI-driven solutions 
+- 🔭 I’m currently working on AI-driven solutions for Web applications
 - 🌱 I’m currently learning Full-stack Engineering
 - 👯 I’m looking to collaborate on open-source projects for multimodal, computer vision, NLP 
 - 💬 Ask me about AI/ML/DL 
