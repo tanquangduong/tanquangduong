@@ -4,8 +4,7 @@
 **tanquangduong/tanquangduong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 -->
 
-- 🔭 I’m currently working on AI-driven solutions for Web applications
-- 🌱 I’m currently learning Full-stack Engineering
+- 🔭 I’m currently working on AI-driven solutions & Full-stack Engineering
 - 👯 I’m looking to collaborate on open-source projects for multimodal, computer vision, NLP 
 - 💬 Ask me about AI/ML/DL 
 - 📫 You can reach me via my [LinkedIn](https://www.linkedin.com/in/tanquangduong/)
