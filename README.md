@@ -9,6 +9,8 @@
     ▶️ <a href="https://www.youtube.com/@quangduong-ai">Subscribe my Youtube channel</a> 
     •
     📝 <a href="https://medium.com/@tanquangduong">Follow my Medium page</a> 
+    •
+    ▶️ <a href="[https://medium.com/@tanquangduong](https://www.udemy.com/user/tan-quang-duong/)">My courses on Udemy</a> 
   </p>
 </div>
 <br/>
