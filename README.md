@@ -10,7 +10,7 @@
     •
     📝 <a href="https://medium.com/@tanquangduong">Follow my Medium page</a> 
     •
-    ▶️ <a href="[https://www.udemy.com/user/tan-quang-duong/]">My courses on Udemy</a> 
+    ▶️ <a href="https://www.udemy.com/user/tan-quang-duong/">My courses on Udemy</a> 
   </p>
 </div>
 <br/>
