@@ -6,8 +6,6 @@
 <div align="center">
   <p align="center">
     📫 <a href="https://www.linkedin.com/in/tanquangduong/">LinkedIn</a> •
-    ▶️ <a href="https://www.youtube.com/@quangduongai">Subscribe my Youtube channel</a> 
-    •
     📝 <a href="https://medium.com/@tanquangduong">Follow my Medium page</a> 
   </p>
 </div>
