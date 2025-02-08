@@ -12,8 +12,6 @@
 <br/>
 
 Hi there, 
-
 I'm Quang, an AI/ML/MLOps Engineer/Scientist, Writer, and Instructor.
 
-Welcome to my code space :)
 
