@@ -26,7 +26,7 @@ I'm an **AI Engineer based in Paris** with 10+ years of experience across:
 - AI Agents & Agentic Systems  
 - End-to-end AI systems (from research → production)
 
-I focus on building **scalable, real-world AI solutions**, not just prototypes.
+I focus on building **scalable, real-world AI solutions**.
 
 ---
 
@@ -36,7 +36,6 @@ I focus on building **scalable, real-world AI solutions**, not just prototypes.
 - Build **RAG pipelines** for enterprise use cases  
 - Develop **AI agents** with tool use & reasoning  
 - Optimize **evaluation, performance, and cost**  
-- Bridge the gap between **research and production**
 
 ---
 
